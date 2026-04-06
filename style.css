@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.cabecalho {
+    background-color: rgb(64, 38, 182);
+    color: white;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+.navegaccao {
+    background-color: aqua;
+    display: inline-block;
+}
+.secao {
+    background-color: aquamarine;
+}
+.rodape {
+    background-color: antiquewhite;
+}
+.grupo {
+    display: flex;
+    flex-direction: column;
+}
