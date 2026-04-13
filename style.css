@@ -25,8 +25,20 @@
 
 .secao {
     background-color: #32a97c;
+    height: 70px;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .rodape {
     background-color: #00ddff;
+}
+.conteudos {
+    display: flex;
+    height: 200px;
+}
+.menu a:hover {
+    color: red,;
 }
