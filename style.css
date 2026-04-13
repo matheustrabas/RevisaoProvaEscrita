@@ -25,6 +25,9 @@
 
 .secao {
     background-color: #32a97c;
+    display: flex;
+    width: 70px;
+    padding: 10px;
 }
 
 .rodape {
