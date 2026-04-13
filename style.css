@@ -25,15 +25,15 @@
 
 .secao {
     background-color: #32a97c;
+}
+
+.rodape {
+    background-color: #00ddff;
     height: 70px;
     padding: 0 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.rodape {
-    background-color: #00ddff;
 }
 .conteudos {
     display: flex;
@@ -41,4 +41,14 @@
 }
 .menu a:hover {
     color: red,;
+}
+.redes {
+    display: flex;
+    align-items: center;
+}
+.redes img {
+    margin-left: 10px;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
 }
