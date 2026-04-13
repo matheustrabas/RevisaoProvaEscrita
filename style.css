@@ -2,46 +2,31 @@
     margin: 0;
     padding: 0;
 }
-.cabecalho {
-    background-color: rgb(64, 38, 182);
-    color: white;
-    padding: 10px;
-    justify-content: space-between;
-    align-items: center;
-    display: flex;
-}
-.navegaccao {
-    background-color: aqua;
-    display: inline-block;
-}
-.secao {
-    background-color: aquamarine;
-}
-.rodape {
-    background-color: antiquewhite;
-}
+
 .grupo {
     display: flex;
     flex-direction: column;
 }
-.menu a {
-    color: aqua;
-    text-decoration: none;
-    margin-left: 15px;
-}
-.menu a:hover {
-    color: red;
-}
-.navegacao ul {
-    list-style: none;
-    padding: 0;
-}
-.navegacao li {
-    margin-bottom: 10px;
-}
-.secao {
-    background-color: aquamarine;
-    display: inline-block;
-    width: ;
+
+.cabecalho {
+    background-color: #12ddaa;
+    color: #fff;
     padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navegacao {
+    background-color: #ad5566;
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+}
+
+.secao {
+    background-color: #32a97c;
+}
+
+.rodape {
+    background-color: #00ddff;
 }
